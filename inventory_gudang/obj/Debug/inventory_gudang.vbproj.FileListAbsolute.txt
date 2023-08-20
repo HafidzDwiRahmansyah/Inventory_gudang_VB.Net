@@ -1,0 +1,12 @@
+C:\Users\My-Asus\AppData\Local\Temporary Projects\inventory_gudang\bin\Debug\inventory_gudang.exe.config
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\inventory_gudang\inventory_gudang\bin\Debug\inventory_gudang.exe.config
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\inventory_gudang\inventory_gudang\bin\Debug\inventory_gudang.exe
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\inventory_gudang\inventory_gudang\bin\Debug\inventory_gudang.pdb
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\inventory_gudang\inventory_gudang\bin\Debug\inventory_gudang.xml
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\inventory_gudang\inventory_gudang\obj\Debug\inventory_gudang.Form1.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\inventory_gudang\inventory_gudang\obj\Debug\inventory_gudang.admin.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\inventory_gudang\inventory_gudang\obj\Debug\inventory_gudang.Resources.resources
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\inventory_gudang\inventory_gudang\obj\Debug\inventory_gudang.vbproj.GenerateResource.Cache
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\inventory_gudang\inventory_gudang\obj\Debug\inventory_gudang.exe
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\inventory_gudang\inventory_gudang\obj\Debug\inventory_gudang.xml
+C:\Users\My-Asus\Documents\Visual Studio 2012\Projects\inventory_gudang\inventory_gudang\obj\Debug\inventory_gudang.pdb
